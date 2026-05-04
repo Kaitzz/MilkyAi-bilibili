@@ -1,6 +1,7 @@
 # MilkyAi @ bilibili
 
 > 好的知识不应该被困在平台里，甚至不需要视频作为载体。
+
 > MilkyAi 让知识脱离平台而真正地被每一个人平等地私有。
 
 <div align="center">
@@ -9,11 +10,15 @@
 
 </div>
 
+<div align="center">
+
 ![Platform](https://img.shields.io/badge/Platform-Bilibili-FB7299)
 ![Status](https://img.shields.io/badge/Status-Active-2EA043)
 ![Pricing](https://img.shields.io/badge/Pricing-Freemium-F59E0B)
 ![Language](https://img.shields.io/badge/Language-ZH--CN-8B5CF6)
 ![Updated](https://img.shields.io/badge/Updated-2026--05-6B7280)
+
+</div>
 
 
 ---
