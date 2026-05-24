@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Bilibili Followers](https://img.shields.io/badge/_Bilibili-15k%2B_粉丝-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3461574540921489)
+[![Bilibili Followers](https://img.shields.io/badge/_Bilibili-21k%2B_粉丝-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3461574540921489)
 
 </div>
 
