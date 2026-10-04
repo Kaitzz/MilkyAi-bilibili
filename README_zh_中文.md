@@ -14,6 +14,10 @@
 ![Docker](https://img.shields.io/badge/Docker-Deployed-2496ED?logo=docker&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Production-2EA043)
 
+<br>
+
+[![Bilibili 粉丝](https://img.shields.io/badge/_Bilibili-38K%2B_粉丝-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3461574540921489)
+
 </div>
 
 > 本仓库是 MilkyAi 的公开工程展示，不是生产源码发布。生产实现、提示词、平台集成与运行配置均保持私有；仓库中的代码只是经过有意简化的架构骨架。
@@ -166,4 +170,3 @@ python -m unittest discover -s tests
 MilkyAi 是由独立开发者设计、开发并持续运营的生产服务。本仓库只展示产品能力与部分工程模式，**不是生产系统的开源发行版**。未经许可，不得依据本展示仓库复制服务、品牌或其私有实现。
 
 欢迎访问 [MilkyAi 的 B站主页](https://space.bilibili.com/3461574540921489) 使用真实产品。
-

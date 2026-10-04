@@ -13,7 +13,10 @@ Turn public videos into concise summaries, searchable transcripts, Chinese trans
 ![AWS SES](https://img.shields.io/badge/AWS-SES-FF9900?logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Deployed-2496ED?logo=docker&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Production-2EA043)
-[![Bilibili Followers](https://img.shields.io/badge/_Bilibili-21k%2B_粉丝-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3461574540921489)
+
+<br>
+
+[![Bilibili Followers](https://img.shields.io/badge/_Bilibili-38K%2B_followers-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3461574540921489)
 
 </div>
 
