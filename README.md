@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<<<<<<< HEAD
 **An AI-powered video-to-notes email platform for Bilibili**
 
 Turn public videos into concise summaries, searchable transcripts, Chinese translations, and structured Markdown notes delivered by email.
@@ -14,9 +13,7 @@ Turn public videos into concise summaries, searchable transcripts, Chinese trans
 ![AWS SES](https://img.shields.io/badge/AWS-SES-FF9900?logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Deployed-2496ED?logo=docker&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Production-2EA043)
-=======
 [![Bilibili Followers](https://img.shields.io/badge/_Bilibili-21k%2B_粉丝-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3461574540921489)
->>>>>>> 6086fbaa5a794cf87af39a63d0101ba2a73b35f8
 
 </div>
 
